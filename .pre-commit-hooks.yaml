@@ -5,6 +5,6 @@
     files: \.dart$
 -   id: dart-fix
     name: Fix Dart Code
-    entry: run
+    entry: dart
     language: script
-    files: \.dart$
+    files: lib
