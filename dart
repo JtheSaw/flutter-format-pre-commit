@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-dart fix $@ --apply
+dart fix lib --apply
