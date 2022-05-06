@@ -1,9 +1,10 @@
 -   id: flutter-format
     name: Format Flutter Code
-    entry: run
+    entry: flutter
     language: script
-    files: \.dart$
+    files: lib integration_test
 -   id: dart-fix
     name: Fix Dart Code
     entry: dart
     language: script
+    files: lib integration_test
