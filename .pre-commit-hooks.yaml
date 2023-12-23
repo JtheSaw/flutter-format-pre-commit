@@ -2,7 +2,7 @@
     name: Format Flutter Code
     entry: run
     language: script
-    files: \.dart$
+    files: lib
 -   id: dart-fix
     name: Fix Dart Code
     entry: dart
